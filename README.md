@@ -1,2 +1,2 @@
 ## SISTEMAS PROGRAMABLES
-#  Sensor de humo
+##  Sensor de humo
